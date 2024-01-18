@@ -1,4 +1,4 @@
-const esNumeroPrimo = require("../ejercicios/33");
+const esNumeroPrimo = require("../ejercicios/33 numero primo");
 
 test("2 es un número primo", () => {
   expect(esNumeroPrimo(2)).toBe(true);
